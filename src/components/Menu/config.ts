@@ -52,11 +52,6 @@ const config: MenuEntry[] = [
     },
   },
   {
-    label: 'Lottery',
-    icon: 'TicketIcon',
-    href: '/lottery',
-  },
-  {
     label: 'Collectibles',
     icon: 'NftIcon',
     href: '/collectibles',
